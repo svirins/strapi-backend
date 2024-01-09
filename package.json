@@ -15,16 +15,19 @@
   },
   "dependencies": {
     "@strapi/plugin-cloud": "4.16.2",
+    "@strapi/plugin-graphql": "^4.16.2",
     "@strapi/plugin-i18n": "4.16.2",
+    "@strapi/plugin-sentry": "^4.16.2",
     "@strapi/plugin-users-permissions": "4.16.2",
     "@strapi/strapi": "4.16.2",
     "pg": "8.8.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "5.3.4",
+    "strapi-plugin-placeholder": "^4.4.0",
+    "strapi-plugin-slugify": "^2.3.8",
     "styled-components": "5.3.3"
   },
-  "devDependencies": {},
   "engines": {
     "node": ">=18.0.0 <=20.x.x",
     "npm": ">=6.0.0"
