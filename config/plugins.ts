@@ -15,6 +15,10 @@ export default {
           field: "slug",
           references: "title",
         },
+        tag: {
+          field: "slug",
+          references: "title",
+        },
       },
     },
   },
